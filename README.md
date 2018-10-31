@@ -1,4 +1,4 @@
-# TASKS
+# PROGRESS
 
 - [x] 0. [Git Basics](https://github.com/kt-lmb/kottans-frontend/blob/master/General%20Basics/Git%20Basics)    
 - [x] 1. [Linux CLI and Networking](https://github.com/kt-lmb/kottans-frontend/blob/master/General%20Basics/Linux%20CLI%20and%20Networking)
@@ -8,4 +8,8 @@
 - [ ] 5. JavaScript Basics
 - [ ] 6. Document Object Model - practice
 
+
+# TASKS
+### Linux CLI and Networking
+![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_linux_cli/courseracli1.png)
 
