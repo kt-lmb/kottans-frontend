@@ -7,4 +7,7 @@ Guess, I'm more of a 'give me a cheat sheet and I'll figure it out' kind of pers
 
 ### Outcomes 
 *~/.gitconfig --global color.ui auto* for adding colors
+
 *q* - leave from git log
+*git checkout +id* to check code without specific pull request 
+
