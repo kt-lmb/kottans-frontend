@@ -14,6 +14,6 @@
 ![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_linux_cli/courseracli1.png)
 
 ## Git Collaboration
-![](https://github.com/kt-lmb/kottans-frontend/blob/master/Screenshot%20from%202018-11-05%2017-58-13.png)
-![](https://github.com/kt-lmb/kottans-frontend/blob/master/Screenshot%20from%202018-11-05%2018-02-36.png)
-![](https://github.com/kt-lmb/kottans-frontend/blob/master/Screenshot%20from%202018-11-05%2018-02-46.png)
+![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_git_collaboration/GitHub%20%26%20Collaboration.png)
+![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_git_collaboration/Version%20Control%20with%20Git%201.png)
+![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_git_collaboration/Version%20Control%20with%20Git2.png)
