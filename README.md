@@ -10,6 +10,10 @@
 
 
 # TASKS
-### Linux CLI and Networking
+## Linux CLI and Networking
 ![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_linux_cli/courseracli1.png)
 
+## Git Collaboration
+![](https://github.com/kt-lmb/kottans-frontend/blob/master/Screenshot%20from%202018-11-05%2017-58-13.png)
+![](https://github.com/kt-lmb/kottans-frontend/blob/master/Screenshot%20from%202018-11-05%2018-02-36.png)
+![](https://github.com/kt-lmb/kottans-frontend/blob/master/Screenshot%20from%202018-11-05%2018-02-46.png)
