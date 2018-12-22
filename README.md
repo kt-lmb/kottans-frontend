@@ -18,7 +18,7 @@
 ![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_git_collaboration/Version%20Control%20with%20Git%201.png)
 ![](https://github.com/kt-lmb/kottans-frontend/blob/master/task_git_collaboration/Version%20Control%20with%20Git2.png)
 
-##Html and CSS
+## Html and CSS
 ![](https://github.com/kt-lmb/kottans-frontend/blob/master/Front-End%20Basics/Screenshot%20from%202018-12-21%2022-12-26.png)
 ![](https://github.com/kt-lmb/kottans-frontend/blob/master/Front-End%20Basics/Screenshot%20from%202018-12-22%2008-02-08.png)
       
